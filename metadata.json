@@ -1,0 +1,5 @@
+{
+  "name": "Lector de Nómina XML",
+  "description": "Sube tus archivos XML de nómina para extraer los datos, visualizarlos en una tabla y exportarlos a formato Excel para un fácil análisis y gestión.",
+  "requestFramePermissions": []
+}
